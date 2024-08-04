@@ -1,0 +1,74 @@
+[2024-08-04T20:35:07.662+0530] {processor.py:161} INFO - Started process (PID=56475) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T20:35:07.663+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-04T20:35:07.663+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:35:07.663+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T20:35:07.671+0530] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T20:35:07.782+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:35:07.782+0530] {override.py:1858} INFO - Created Permission View: can edit on DAG:example_complex
+[2024-08-04T20:35:07.787+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:35:07.787+0530] {override.py:1858} INFO - Created Permission View: can read on DAG:example_complex
+[2024-08-04T20:35:07.791+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:35:07.791+0530] {override.py:1858} INFO - Created Permission View: can delete on DAG:example_complex
+[2024-08-04T20:35:07.791+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:35:07.791+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:35:07.797+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:35:07.797+0530] {dag.py:3111} INFO - Creating ORM DAG for example_complex
+[2024-08-04T20:35:07.798+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:35:07.797+0530] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-04T20:35:07.809+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.148 seconds
+[2024-08-04T20:38:49.376+0530] {processor.py:161} INFO - Started process (PID=58201) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T20:38:49.377+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-04T20:38:49.377+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:38:49.377+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T20:38:49.384+0530] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T20:38:49.443+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:38:49.443+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:38:49.449+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:38:49.449+0530] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-04T20:38:49.460+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.085 seconds
+[2024-08-04T20:42:10.647+0530] {processor.py:161} INFO - Started process (PID=59706) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T20:42:10.647+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-04T20:42:10.647+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:42:10.647+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T20:42:10.654+0530] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T20:42:10.714+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:42:10.714+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:42:10.720+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:42:10.720+0530] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-04T20:42:10.731+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.086 seconds
+[2024-08-04T20:45:58.408+0530] {processor.py:161} INFO - Started process (PID=61336) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T20:45:58.409+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-04T20:45:58.410+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:45:58.410+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T20:45:58.417+0530] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T20:45:58.478+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:45:58.477+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:45:58.484+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:45:58.483+0530] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-04T20:45:58.495+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-08-04T20:48:37.897+0530] {processor.py:161} INFO - Started process (PID=62442) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T20:48:37.897+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-04T20:48:37.898+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:48:37.898+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T20:48:37.905+0530] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T20:48:37.964+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:48:37.963+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:48:37.969+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:48:37.969+0530] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-04T20:48:37.980+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.085 seconds
+[2024-08-04T20:51:56.427+0530] {processor.py:161} INFO - Started process (PID=63843) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T20:51:56.428+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-04T20:51:56.429+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:51:56.429+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T20:51:56.436+0530] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T20:51:56.494+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:51:56.494+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:51:56.500+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:51:56.500+0530] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-04T20:51:56.511+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.085 seconds
+[2024-08-04T20:55:57.003+0530] {processor.py:161} INFO - Started process (PID=65638) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T20:55:57.004+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-04T20:55:57.005+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:55:57.005+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T20:55:57.012+0530] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T20:55:57.071+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:55:57.071+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:55:57.077+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:55:57.077+0530] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-04T20:55:57.088+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.086 seconds
+[2024-08-04T21:02:12.737+0530] {processor.py:161} INFO - Started process (PID=68786) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T21:02:12.738+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-04T21:02:12.738+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:02:12.738+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T21:02:12.745+0530] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T21:02:12.805+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:02:12.805+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T21:02:12.811+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:02:12.811+0530] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-04T21:02:12.822+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2024-08-04T21:04:18.568+0530] {processor.py:161} INFO - Started process (PID=69682) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T21:04:18.569+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-04T21:04:18.570+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:04:18.569+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T21:04:18.576+0530] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T21:04:18.635+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:04:18.635+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T21:04:18.641+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:04:18.641+0530] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-04T21:04:18.652+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.085 seconds
+[2024-08-04T21:06:49.972+0530] {processor.py:161} INFO - Started process (PID=70739) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T21:06:49.973+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-04T21:06:49.974+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:06:49.974+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T21:06:49.981+0530] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-04T21:06:50.040+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:06:50.040+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T21:06:50.045+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:06:50.045+0530] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-04T21:06:50.056+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.085 seconds

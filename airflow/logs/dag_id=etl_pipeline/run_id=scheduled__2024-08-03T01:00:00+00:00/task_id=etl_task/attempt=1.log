@@ -1,0 +1,28 @@
+[2024-08-04T20:58:18.581+0530] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-08-04T20:58:18.595+0530] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: etl_pipeline.etl_task scheduled__2024-08-03T01:00:00+00:00 [queued]>
+[2024-08-04T20:58:18.599+0530] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: etl_pipeline.etl_task scheduled__2024-08-03T01:00:00+00:00 [queued]>
+[2024-08-04T20:58:18.599+0530] {taskinstance.py:2306} INFO - Starting attempt 1 of 4
+[2024-08-04T20:58:18.605+0530] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): etl_task> on 2024-08-03 01:00:00+00:00
+[2024-08-04T20:58:18.609+0530] {clientserver.py:543} INFO - Closing down clientserver connection
+[2024-08-04T20:58:18.612+0530] {logging_mixin.py:188} WARNING - /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:62 DeprecationWarning: This process (pid=66788) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2024-08-04T20:58:18.612+0530] {standard_task_runner.py:64} INFO - Started process 66829 to run task
+[2024-08-04T20:58:18.612+0530] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'etl_pipeline', 'etl_task', 'scheduled__2024-08-03T01:00:00+00:00', '--job-id', '16', '--raw', '--subdir', 'DAGS_FOLDER/dags.py', '--cfg-path', '/var/folders/gw/l1rtn9c158vfbmng8xzmr2rh0000gn/T/tmpbmwuqakr']
+[2024-08-04T20:58:18.613+0530] {standard_task_runner.py:91} INFO - Job 16: Subtask etl_task
+[2024-08-04T20:58:18.632+0530] {task_command.py:426} INFO - Running <TaskInstance: etl_pipeline.etl_task scheduled__2024-08-03T01:00:00+00:00 [running]> on host deepanshus-macbook-air.local
+[2024-08-04T20:58:18.664+0530] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_EMAIL='2207deepanshu@gmail.com' AIRFLOW_CTX_DAG_OWNER='deepanshu' AIRFLOW_CTX_DAG_ID='etl_pipeline' AIRFLOW_CTX_TASK_ID='etl_task' AIRFLOW_CTX_EXECUTION_DATE='2024-08-03T01:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-08-03T01:00:00+00:00'
+[2024-08-04T20:58:18.665+0530] {taskinstance.py:430} INFO - ::endgroup::
+[2024-08-04T20:58:22.982+0530] {logging_mixin.py:188} INFO - +---+--------------------+--------------------+---------------+-----------+
+| id|                name|         description|       category|avg(rating)|
++---+--------------------+--------------------+---------------+-----------+
+|  1|        Sample Movie|  Sample Description|Sample Category|        4.0|
+|  3|            Holidate|Holidate is a 202...|         Romcom|        3.0|
+|  4|          Extraction|Extraction is a 2...|         Action|        5.0|
+|  2|Avengers: Infinit...|Avengers: Infinit...|         Sci-Fi|        5.0|
++---+--------------------+--------------------+---------------+-----------+
+[2024-08-04T20:58:22.984+0530] {logging_mixin.py:188} INFO - None
+[2024-08-04T20:58:22.985+0530] {python.py:237} INFO - Done. Returned value was: None
+[2024-08-04T20:58:22.985+0530] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-08-04T20:58:22.994+0530] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=etl_pipeline, task_id=etl_task, run_id=scheduled__2024-08-03T01:00:00+00:00, execution_date=20240803T010000, start_date=20240804T152818, end_date=20240804T152822
+[2024-08-04T20:58:23.041+0530] {local_task_job_runner.py:243} INFO - Task exited with return code 0
+[2024-08-04T20:58:23.056+0530] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-08-04T20:58:23.056+0530] {local_task_job_runner.py:222} INFO - ::endgroup::

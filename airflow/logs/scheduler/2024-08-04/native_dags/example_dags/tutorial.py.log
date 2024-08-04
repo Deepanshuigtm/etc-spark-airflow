@@ -1,0 +1,186 @@
+[2024-08-04T20:32:59.788+0530] {processor.py:161} INFO - Started process (PID=55578) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:32:59.789+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T20:32:59.789+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:32:59.789+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:32:59.794+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:32:59.897+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:32:59.897+0530] {override.py:1858} INFO - Created Permission View: can read on DAG:tutorial
+[2024-08-04T20:32:59.902+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:32:59.901+0530] {override.py:1858} INFO - Created Permission View: can edit on DAG:tutorial
+[2024-08-04T20:32:59.905+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:32:59.904+0530] {override.py:1858} INFO - Created Permission View: can delete on DAG:tutorial
+[2024-08-04T20:32:59.905+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:32:59.905+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:32:59.910+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:32:59.910+0530] {dag.py:3111} INFO - Creating ORM DAG for tutorial
+[2024-08-04T20:32:59.915+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:32:59.915+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T20:32:59.924+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.138 seconds
+[2024-08-04T20:34:00.623+0530] {processor.py:161} INFO - Started process (PID=56045) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:34:00.624+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T20:34:00.624+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:34:00.624+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:34:00.629+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:34:00.683+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:34:00.683+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:34:00.694+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:34:00.694+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T20:34:00.704+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.083 seconds
+[2024-08-04T20:36:04.399+0530] {processor.py:161} INFO - Started process (PID=56917) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:36:04.399+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T20:36:04.400+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:36:04.400+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:36:04.406+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:36:04.468+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:36:04.467+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:36:04.481+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:36:04.481+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T20:36:04.497+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.101 seconds
+[2024-08-04T20:37:33.788+0530] {processor.py:161} INFO - Started process (PID=57593) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:37:33.789+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T20:37:33.790+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:37:33.789+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:37:33.794+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:37:33.850+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:37:33.850+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:37:33.861+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:37:33.861+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T20:37:33.873+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.086 seconds
+[2024-08-04T20:39:32.786+0530] {processor.py:161} INFO - Started process (PID=58518) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:39:32.787+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T20:39:32.788+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:39:32.787+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:39:32.792+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:39:32.845+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:39:32.845+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:39:32.855+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:39:32.855+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T20:39:32.866+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.081 seconds
+[2024-08-04T20:41:04.459+0530] {processor.py:161} INFO - Started process (PID=59229) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:41:04.459+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T20:41:04.460+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:41:04.460+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:41:04.464+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:41:04.518+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:41:04.518+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:41:04.528+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:41:04.528+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T20:41:04.539+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.082 seconds
+[2024-08-04T20:42:56.625+0530] {processor.py:161} INFO - Started process (PID=60053) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:42:56.626+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T20:42:56.627+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:42:56.627+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:42:56.631+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:42:56.686+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:42:56.686+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:42:56.696+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:42:56.696+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T20:42:56.707+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.083 seconds
+[2024-08-04T20:44:16.767+0530] {processor.py:161} INFO - Started process (PID=60621) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:44:16.768+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T20:44:16.768+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:44:16.768+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:44:16.773+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:44:16.828+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:44:16.828+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:44:16.838+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:44:16.838+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T20:44:16.850+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.084 seconds
+[2024-08-04T20:44:51.057+0530] {processor.py:161} INFO - Started process (PID=60892) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:44:51.058+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T20:44:51.058+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:44:51.058+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:44:51.063+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:44:51.118+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:44:51.118+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:44:51.129+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:44:51.129+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T20:44:51.140+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.085 seconds
+[2024-08-04T20:46:48.118+0530] {processor.py:161} INFO - Started process (PID=61714) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:46:48.119+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T20:46:48.120+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:46:48.120+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:46:48.124+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:46:48.177+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:46:48.177+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:46:48.187+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:46:48.187+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T20:46:48.198+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.081 seconds
+[2024-08-04T20:48:03.657+0530] {processor.py:161} INFO - Started process (PID=62215) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:48:03.659+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T20:48:03.659+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:48:03.659+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:48:03.664+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:48:03.716+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:48:03.716+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:48:03.727+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:48:03.727+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T20:48:03.737+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.081 seconds
+[2024-08-04T20:49:17.761+0530] {processor.py:161} INFO - Started process (PID=62739) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:49:17.762+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T20:49:17.762+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:49:17.762+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:49:17.767+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:49:17.820+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:49:17.820+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:49:17.830+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:49:17.830+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T20:49:17.841+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.081 seconds
+[2024-08-04T20:50:52.325+0530] {processor.py:161} INFO - Started process (PID=63427) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:50:52.326+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T20:50:52.326+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:50:52.326+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:50:52.330+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:50:52.383+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:50:52.383+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:50:52.393+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:50:52.393+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T20:50:52.404+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.080 seconds
+[2024-08-04T20:52:45.083+0530] {processor.py:161} INFO - Started process (PID=64211) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:52:45.084+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T20:52:45.085+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:52:45.085+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:52:45.089+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:52:45.141+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:52:45.141+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:52:45.151+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:52:45.151+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T20:52:45.161+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.079 seconds
+[2024-08-04T20:54:01.668+0530] {processor.py:161} INFO - Started process (PID=64772) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:54:01.670+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T20:54:01.670+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:54:01.670+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:54:01.675+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:54:01.729+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:54:01.728+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:54:01.739+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:54:01.739+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T20:54:01.749+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.083 seconds
+[2024-08-04T20:54:50.462+0530] {processor.py:161} INFO - Started process (PID=65184) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:54:50.464+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T20:54:50.464+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:54:50.464+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:54:50.469+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:54:50.522+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:54:50.522+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:54:50.533+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:54:50.533+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T20:54:50.543+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.082 seconds
+[2024-08-04T20:56:50.942+0530] {processor.py:161} INFO - Started process (PID=66071) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:56:50.943+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T20:56:50.943+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:56:50.943+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:56:50.948+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:56:51.001+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:56:51.001+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:56:51.012+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:56:51.012+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T20:56:51.022+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.081 seconds
+[2024-08-04T20:57:17.606+0530] {processor.py:161} INFO - Started process (PID=66303) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:57:17.608+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T20:57:17.608+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:57:17.608+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:57:17.616+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:57:17.696+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:57:17.695+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:57:17.708+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:57:17.708+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T20:57:17.723+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.119 seconds
+[2024-08-04T20:59:18.571+0530] {processor.py:161} INFO - Started process (PID=67431) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:59:18.572+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T20:59:18.572+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:59:18.572+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:59:18.577+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T20:59:18.629+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:59:18.629+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T20:59:18.639+0530] {logging_mixin.py:188} INFO - [2024-08-04T20:59:18.639+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T20:59:18.649+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.080 seconds
+[2024-08-04T21:01:07.548+0530] {processor.py:161} INFO - Started process (PID=68374) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T21:01:07.549+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T21:01:07.549+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:01:07.549+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T21:01:07.554+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T21:01:07.607+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:01:07.607+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T21:01:07.617+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:01:07.617+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T21:01:07.628+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.081 seconds
+[2024-08-04T21:03:11.711+0530] {processor.py:161} INFO - Started process (PID=69245) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T21:03:11.712+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T21:03:11.712+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:03:11.712+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T21:03:11.717+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T21:03:11.770+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:03:11.770+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T21:03:11.780+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:03:11.780+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T21:03:11.790+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.081 seconds
+[2024-08-04T21:04:59.121+0530] {processor.py:161} INFO - Started process (PID=69959) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T21:04:59.122+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T21:04:59.122+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:04:59.122+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T21:04:59.127+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T21:04:59.180+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:04:59.180+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T21:04:59.190+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:04:59.190+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T21:04:59.200+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.081 seconds
+[2024-08-04T21:05:46.478+0530] {processor.py:161} INFO - Started process (PID=70318) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T21:05:46.479+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T21:05:46.479+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:05:46.479+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T21:05:46.484+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T21:05:46.538+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:05:46.538+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T21:05:46.548+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:05:46.548+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T21:05:46.558+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.082 seconds
+[2024-08-04T21:07:28.767+0530] {processor.py:161} INFO - Started process (PID=71021) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T21:07:28.768+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T21:07:28.768+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:07:28.768+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T21:07:28.773+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T21:07:28.826+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:07:28.826+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T21:07:28.836+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:07:28.836+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T21:07:28.846+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.081 seconds
+[2024-08-04T21:08:45.262+0530] {processor.py:161} INFO - Started process (PID=71676) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T21:08:45.263+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T21:08:45.263+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:08:45.263+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T21:08:45.268+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T21:08:45.322+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:08:45.322+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T21:08:45.331+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:08:45.331+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T21:08:45.342+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.081 seconds
+[2024-08-04T21:09:21.187+0530] {processor.py:161} INFO - Started process (PID=72005) to work on /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T21:09:21.189+0530] {processor.py:830} INFO - Processing file /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-04T21:09:21.190+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:09:21.189+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T21:09:21.197+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-04T21:09:21.317+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:09:21.317+0530] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T21:09:21.345+0530] {logging_mixin.py:188} INFO - [2024-08-04T21:09:21.344+0530] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T21:09:21.387+0530] {processor.py:183} INFO - Processing /Users/deepanshu/Desktop/etc-spark-airflow/env/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.203 seconds
